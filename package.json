@@ -1,0 +1,23 @@
+{
+  "name": "greatbay",
+  "version": "1.0.0",
+  "description": "command line ebay app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Murrmaid4/GreatBay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Murrmaid4/GreatBay/issues"
+  },
+  "homepage": "https://github.com/Murrmaid4/GreatBay#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "mysql": "^2.18.1"
+  }
+}
